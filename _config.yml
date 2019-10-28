@@ -30,7 +30,7 @@ twitter_username: sanju7
 github_username:  sanju7
 
 # Build settings
-theme: minima
+theme: Minima
 plugins:
   - jekyll-feed
 
