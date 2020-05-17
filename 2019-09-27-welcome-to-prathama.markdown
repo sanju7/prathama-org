@@ -1,20 +1,24 @@
 ---
 layout: post
-title:  "In The Zone | Manuer for Mind | Go Beyond Boundaries"
+title:  "Skill-Questions-Docs"
 date:   2019-10-27 14:29:07 +0100
-categories: Knowledge Bites
+categories: it questions
 ---
-You’ll find this post here most useful to conduct skill validation exercises such as short code challenges or concept questions
+useful it skill questons for codesmiths
 
-
-
-
-Jekyll also offers powerful support for code snippets:
 
 {% highlight ruby %}
-Apache Spark
-Google Spark
-AWS Spark
+1. Pivotal Cloud Foudry
+2. Ansible
+3. Terraform
+4. Azure Web Services
+5. Amazon Web Services
+6. Google Cloud
+7. Docker
+8. Apache Spark
+9. Google Spark
+10. AWS Spark
+11. Python
 
 {% endhighlight %}
 
