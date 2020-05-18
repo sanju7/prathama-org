@@ -12,14 +12,14 @@ The list below is hot and happening information technology skills for 2019. And 
 1. Pivotal Cloud Foudry
 2. Ansible
 3. Terraform
-4. Azure Web Services
-5. Amazon Web Services
-6. Google Cloud
-7. Docker
-8. Apache Spark
-9. Google Spark
-10. AWS Spark
-11. Python
+4. Cloud Computing. Azure Web Services, Amazon Web Services, Google Cloud
+5. Artificial Intelligence
+6. Data Sccience
+7. UI/UX Design
+8. Apache Spark / Google Spark / AWS Spark
+9. Python scientific computing
+10.Mobile Development
+11. IoT
 
 {% endhighlight %}
 
