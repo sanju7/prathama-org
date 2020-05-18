@@ -2,9 +2,10 @@
 layout: post
 title:  "Skill-Questions-Docs"
 date:   2019-10-27 14:29:07 +0100
-categories: it questions
+categories: Interview Questions 2019
 ---
-useful it skill questons for codesmiths
+IT Skill Questions for Leaders and Interviewers 
+The list below is hot and happening information technology skills for 2019. And if you are a leader looking to build a team of people with these skills you must know how to evaluate skilled people --most importantly what questions to ask. Skill and questions are into links below. If you likes the questions consider saving the page or contributing into it.
 
 
 {% highlight ruby %}
