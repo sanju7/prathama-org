@@ -1,24 +1,23 @@
 ---
 layout: post
 title:  "Skill-Questions-Docs"
-date:   2019-10-27 14:29:07 +0100
+date:   2020-01-17 14:29:07 +0100
 categories: Interview Questions 2019
 ---
-IT Skill Questions for Leaders and Interviewers 
-The list below is hot and happening information technology skills for 2019. And if you are a leader looking to build a team of people with these skills you must know how to evaluate skilled people --most importantly what questions to ask. Skill and questions are into links below. If you likes the questions consider saving the page or contributing into it.
-
+IT Skill Questions for Leaders and Interviewers
+The list below is hot and happening information technology skills for 2020. And if you are a leader looking to build a team of people with these skills you must know how to evaluate skilled people --most importantly what questions to ask. Skill and questions are into links below. If you likes the questions consider saving the page or contributing into it.
 
 {% highlight ruby %}
-1. Pivotal Cloud Foudry
-2. Ansible
-3. Terraform
-4. Cloud Computing. Azure Web Services, Amazon Web Services, Google Cloud
+1. Pivotal Kontainer Services
+2. Kubernetes
+3. Machine Learning
+4. Blockchain
 5. Artificial Intelligence
-6. Data Sccience
-7. UI/UX Design
-8. Apache Spark / Google Spark / AWS Spark
-9. Python scientific computing
-10.Mobile Development
+6. Data Engineer
+7. Cyber Security
+8. Python, MATLAB, scientific computing
+9. Fullstack Development
+10. UI/UX Design
 11. IoT
 
 {% endhighlight %}
