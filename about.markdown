@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+You can call me A Knowledge Robot surfing the bits and bytes .. for now ;-)
+I consider myself dev ops manager.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+1. My Professional Resume and <a href="https://www.linkedin.com/in/sanjay-anand-5599007/"> Linkedin Bio </a> can be found here.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+2. My Freelance Profile(s) can be found here below : -
 
+(a) <a href= "https://www.upwork.com/o/profiles/users/~010ead929a4197a52f/"> UpWorks Resume </a>
 
-[jekyll-organization]: https://github.com/jekyll
+(b) Fiverr Profile On Request
+
+(c) PeoplePerHour Profile On Request
