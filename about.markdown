@@ -11,7 +11,7 @@ I consider myself dev ops architect.
 
 2. My Freelance Profile(s) can be found here below : -
 
-(a) <a href= "https://www.upwork.com/freelancers/~010ead929a4197a52f?s=1270387428129226752/"> UpWorks Resume </a>
+(a) <a href= "https://www.upwork.com/o/profiles/users/~010ead929a4197a52f/?s=1270387428129226752"> UpWorks Resume </a>
 
 (b) Fiverr Profile On Request
 
