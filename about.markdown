@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 You can call me A Knowledge Robot surfing the bits and bytes .. for now ;-)
-I consider myself dev ops manager.
+I consider myself dev ops architect.
 
 1. My Professional Resume and <a href="https://www.linkedin.com/in/sanjay-anand-5599007/"> Linkedin Bio </a> can be found here.
 
