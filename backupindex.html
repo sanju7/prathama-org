@@ -74,6 +74,28 @@
   <div class="wrapper">
 
     <h2 class="footer-heading">Unroll Your Mind</h2>
+    {% for i in (-7..30) %}
+
+    {% assign day = 86400 | times: i | plus: month_starts_ts %}
+    {% assign dow = day | date: '%u' %}
+    {% assign m = day | date: '%m' %}
+
+    {% unless fd %}
+    {% if dow == '7' %}{% assign fd = true %}{% endif %}
+    {% continue %}
+    {% endunless %}
+
+    {% if month == m %}
+
+    {% case dow %}
+    {% when '6' %}<span class="calendar__we {{ has_posts }} ">
+      {% when '7' %}<span class="calendar__we {{ has_posts }}">
+      {% else %}<span class="{{ has_posts }}">
+    {% endcase %}{{ day | date: '%e' }}</span>
+
+    {% else %}<span></span>{% endif %}
+
+    {% endfor %}
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
