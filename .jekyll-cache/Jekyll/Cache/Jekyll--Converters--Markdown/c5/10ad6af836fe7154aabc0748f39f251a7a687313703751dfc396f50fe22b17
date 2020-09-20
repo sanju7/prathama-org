@@ -1,0 +1,44 @@
+I"0<p>Unless otherwise mentioned explicitly all hours are CET European time .</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Day</th>
+      <th>Busy Hours</th>
+      <th>Free for Call</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Tuesday</td>
+      <td>8:30am - 5:00pm</td>
+      <td>5:30pm - 6:30pm</td>
+    </tr>
+    <tr>
+      <td>Wednesday</td>
+      <td>8:30am - 5:00pm</td>
+      <td>5:30pm - 6:30pm</td>
+    </tr>
+    <tr>
+      <td>Thursday</td>
+      <td>8:30am - 5:00pm</td>
+      <td>5:30pm - 6:30pm</td>
+    </tr>
+    <tr>
+      <td>Friday</td>
+      <td>8:30am - 5:00pm</td>
+      <td>5:30pm - 6:30pm</td>
+    </tr>
+    <tr>
+      <td>Saturday</td>
+      <td>Closed</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Saturday</td>
+      <td>Closed</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+:ET
