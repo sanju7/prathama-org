@@ -1,4 +1,4 @@
-baseurl: '/Users/bigshot55/prathama-org/jekyll-serif-theme'
+baseurl: '/'
 exclude: ['README.md']
 permalink: pretty
 title: 'Test Test Test Jekyll Serif'
