@@ -1,7 +1,7 @@
-baseurl: '/Users/bigshot55/prathama-org/jekyll-serif-theme'
+baseurl: '/'
 exclude: ['README.md']
 permalink: pretty
-title: 'Test Test Test Jekyll Serif'
+title: 'Test 3333 Jekyll Serif'
 
 google_analytics_id: null
 homepage:
@@ -11,7 +11,7 @@ logo:
   desktop: "images/logo/logo.svg"
   desktop_height: "36px"
 footer:
-  copyright_text: 'Free Jekyll theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
+  copyright_text: 'Free Jekyll theme by <a class="zerostatic" href="https://www.sanjayanand.pro">www.sanjayanand.pro</a>'
 
 seo:
   meta_og_title: "Jekyll Serif Theme"
@@ -20,8 +20,8 @@ seo:
   meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
   meta_og_description: "Jekyll Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
   meta_twitter_card: "summary"
-  meta_twitter_site: "@zerostaticio"
-  meta_twitter_creator: "@zerostaticio"
+  meta_twitter_site: "@sanjya7"
+  meta_twitter_creator: "@sanju7"
 
 collections:
   services:
