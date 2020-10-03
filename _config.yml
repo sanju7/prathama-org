@@ -1,7 +1,7 @@
 baseurl: '/'
 exclude: ['README.md']
 permalink: pretty
-title: 'Test 3333 Jekyll Serif'
+title: 'Sanjay Anand's Professional Page for Collaborators and Hiring Employers'
 
 google_analytics_id: null
 homepage:
@@ -11,16 +11,16 @@ logo:
   desktop: "images/logo/logo.svg"
   desktop_height: "36px"
 footer:
-  copyright_text: 'Free Jekyll theme by <a class="zerostatic" href="https://www.sanjayanand.pro">www.sanjayanand.pro</a>'
+  copyright_text: 'Sanjay Anand Professional <a class="zerostatic" href="https://www.sanjayanand.pro/copyright_text">www.sanjayanand.pro</a>'
 
 seo:
-  meta_og_title: "Jekyll Serif Theme"
+  meta_og_title: "Sanjay Anand Professional"
   meta_og_type: "website"
   meta_og_url: "https://jekyll-serif-theme.netlify.app"
   meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
-  meta_og_description: "Jekyll Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
+  meta_og_description: "Sanjay Anand Professional page contains his present and past pro bono projects and digital projections"
   meta_twitter_card: "summary"
-  meta_twitter_site: "@sanjya7"
+  meta_twitter_site: "@sanju7"
   meta_twitter_creator: "@sanju7"
 
 collections:
