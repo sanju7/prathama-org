@@ -1,11 +1,12 @@
 ---
-title: Services
+title: Freelance Service | Probono 
 layout: services
-intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Services that grow with your business
+# This section contains the media and content i developed over years .
 
-You can reach me with your proposal for any ProBono Consulting.
+Presentations
+Videos
+Books
