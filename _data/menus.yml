@@ -9,7 +9,7 @@ main:
     url: "/resumes/"
     weight: 4
   - name: "Blogs"
-    url: "/blogs/"
+    url: "https://blogs.sanjayanand.pro"
     weight: 5
   - name: "Services"
     url: "/services/"
