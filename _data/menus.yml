@@ -6,7 +6,7 @@ main:
     url: "/pov/"
     weight: 3
   - name: "Resumes"
-    url: "http://bio.sanjayanand.pro"
+    url: "https://bio.sanjayanand.pro"
     weight: 4
   - name: "Blogs"
     url: "https://blogs.sanjayanand.pro"
