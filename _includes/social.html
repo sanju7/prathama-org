@@ -5,7 +5,7 @@
     {% assign link_url = site.linkedin_url %}
   {% elsif item.name = "YouTube" %}
     {% assign link_url = site.youtube_url %}
-  {% endig %}
+  {% endif %}
     <a href="{{ item.link }}" target="blank"><img src="{{ item.image | relative_url }}" title="{{ item.name }}" alt="{{ item.name }}" /></a>
   {% endfor %}
 </div>
