@@ -20,7 +20,7 @@ I’m always open to discussions around **Cloud Security, AI, and Strategy**. Fe
 
 ### **Preferred Contact Methods** 
 
-- 📧 Email: [hi@sanjayanand.pro](mailto:hi@sanjayanand.pro) 
+- 📧 Email: [hi(AT)sanjayanand(DOT)pro](mailto:hi@sanjayanand.pro) 
 
 - 🔗 LinkedIn: [linkedin.com/in/sanjay-anand-55999007](https://www.linkedin.com/in/sanjay-anand-5599007/) 
 
