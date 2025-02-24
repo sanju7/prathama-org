@@ -2,7 +2,7 @@
 title: Team
 layout: home
 permalink: /team/
-intro_image: "images/sa-pro-image-rnd-1.png"
+intro_image: "images/sa-pro-image-rnd-3.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
