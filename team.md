@@ -8,8 +8,6 @@ intro_image_hide_on_mobile: false  # Ensures it stays visible on mobile
 
 ---
 
-![Team Collaboration](/images/sa-pro-image-rnd-1.png)
-
 # 🚀  The Teams And Minds That Shaped My Journey
 
 🔹 Opening Section: 
