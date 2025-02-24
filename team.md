@@ -2,10 +2,10 @@
 title: Team
 layout: home
 permalink: /team/
-intro_image: "/images/sa-pro-image-rnd-1.png"
-intro_image_absolute: falae
-intro_image_hide_on_mobile: false
+
 ---
+
+![Team Collaboration](/images/sa-pro-image-rnd-1.png)
 
 # 🚀  The Teams And Minds That Shaped My Journey
 
