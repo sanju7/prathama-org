@@ -23,7 +23,7 @@ email: hi@sanjayanand.pro
 description: >- # this means to ignore newlines until "baseurl:"
   Certified Cloud and Cyber Security Architect, with expertice in enterprise cloud adoption, security, strategy and digital transformation. Helping organizations build sucire, scalable and future-ready infrastructure. 
 
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.sanjayanand.pro" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sanjya7
 github_username:  sanju7
