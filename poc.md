@@ -1,5 +1,5 @@
 ---
-title: Cloud, AI & Security: my hands on innovation
+title: Cloud, AI & Security, my hands on innovation
 layout: page
 permalink: /poc/
 ---
