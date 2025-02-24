@@ -1,18 +1,6 @@
 <div class="social">
-  {% if site.data.social %}
-    {% for item in site.data.social %}
-      {% assign link_url = item.link %}
-  
-      {% if item.name == "LinkedIn" %}
-        {% assign link_url = site.linkedin_url %}
-      {% elsif item.name = "YouTube" %}
-        {% assign link_url = site.youtube_url %}
-      {% endif %}
-
-      {% if link_url %}
+{% for item in site.data.social %}
       <a href="{{ link_url }}" target="blank">
       <img src="{{ item.image | relative_url }}" title="{{ item.name }}" alt="{{ item.name }}" /></a>
-      {% endif %}
     {% endfor %}
-  {% endif %}
 </div>
