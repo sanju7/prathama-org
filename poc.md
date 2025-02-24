@@ -1,17 +1,29 @@
 ---
-title: Proof Of Concept
+title: Cloud, AI & Security: my hands on innovation
 layout: page
 permalink: /poc/
 ---
-# Intro 
+# 🚀 Innovative Cloud & AI Solutions: My Proof of Work 
 
-This  page has all the proof of concepts i carried out or period of several years, that in gist represent my pro bono work, work as training consultant and other work on indipendent capacity on personal projects on unpaid capacity.
+ 
 
-# Google Cloud
+“Over the years, I have worked on multiple cloud and AI-driven security solutions, many of which were exploratory, independent initiatives, or pro bono contributions. This section showcases some of my most impactful proof-of-concept projects, highlighting research, experimentation, and the intersection of cloud technology with AI-powered security.” 
 
-# AWS Cloud
+ 
+ 
 
-# Azure Cloud
+Project Highlights (Example Layout) 
 
-NB: No information presented here is in full or in part are in violation to my existing commitments or NDAs with present employer. 
-No information presented here is deemed classified  by any of my past of present employer or their clients.
+• 🔍 Google Cloud | AI-powered Threat Detection 
+
+Developed a scalable security model integrating GCP’s AI services with SIEM solutions to automate threat detection and response. 
+
+• ☁️ AWS | Multi-cloud Data Encryption 
+
+Designed a cross-cloud encryption model allowing seamless, secure data exchange across AWS, Azure, and GCP with zero-trust principles. 
+
+• 🔐 Azure | Identity & Access Governance 
+
+Implemented a decentralized identity model leveraging Azure AD & blockchain for enhanced security in zero-trust environments. 
+
+ 
