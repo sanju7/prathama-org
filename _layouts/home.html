@@ -57,9 +57,13 @@ bodyClass: page-home
       <div class="col-12 col-md-6 col-lg-4 mb-2">
         <div class="feature">
           {% if feature.image %}
-          <div class="feature-image"><img alt="{{ feature.title }} logo" src="{{ feature.image | relative_url }}" /></div>
+          <a href="{{ feature.link | relative_url }}"> <!-- makes it clickable -->
+          <div class="feature-image"><img alt="{{ feature.title }} logo" src="{{ feature.image | relative_url }}" /></div> 
+          </a>
           {% endif %}
-          <h2 class="feature-title">{{ feature.title }}</h2>
+          <h2 class="feature-title">
+            <a href="{{ feature.link | relative_url }}">{{ feature.title }}</a> <!-- makes it clickable -->
+          </h2>
           <div class="feature-content">{{ feature.description }}</div>
         </div>
       </div>
