@@ -1,8 +1,8 @@
 ---
 title: Cloud, AI & Security, my hands on innovation
 layout: page
-intro_image: "images/sa-pro-image-rnd-3.png"
-intro_image_absolute: true
+intro_image: "/images/sa-pro-image-rnd-3.png"
+intro_image_absolute: false
 intro_image_hide_on_mobile: false  # Ensures it stays visible on mobile
 permalink: /poc/
 ---
