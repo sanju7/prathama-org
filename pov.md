@@ -1,20 +1,26 @@
 ---
-title: Point of View
+title: My perspective on AI, Security and Digital Evolution
 layout: page
 permalink: /pov/
 ---
 
-# Intro 
+# 🧠 Thought Leadership & Industry Perspectives 
 
-This page has all the point of view papers submitted over the time 
 
-You can reach me with any question on the matter.
+“This section is a curated collection of my thoughts, research, and industry papers on AI, Cloud Security, and Digital Transformation. These insights stem from hands-on experience, cross-industry research, and collaborations with thought leaders. If you are interested in discussing any of these topics, feel free to reach out.” 
 
-# Papers @2022
+ 
+ 
 
-# Papers @2021
+Paper List with Download Links 
 
-# Papers @2020
+ 
+ 
 
-NB: No information presented here is in full or in part are in violation to my existing commitments or NDAs with present employer.
-No information presented here is deemed classified  by any of my past of present employer or their clients.
+(Pin the title in the center and link PDFs for credibility) 
+
+📄 Navigating the AI Security Paradox: 2024 
+
+📄 Zero-Trust in a Multi-Cloud World: 2023 
+
+📄 Reshaping Enterprise Cybersecurity: 2022 
