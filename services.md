@@ -1,7 +1,7 @@
 ---
 title: "Freelance Service | Pro Bono" 
 layout: services 
-intro_image: "/images/sa-pro-services-banner-1.jpg" 
+intro_image: "/images/sa-pro-services-banner-1.png" 
 intro_image_absolute: true 
 intro_image_hide_on_mobile: false 
 
