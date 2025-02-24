@@ -1,17 +1,17 @@
 [
   {
     "title": "Artificial Intelligence",
-    "description": "New client.",
-    "image": "images/features/noun_branding_1885335.svg"
+    "description": "Data and Artificial Intelligence",
+    "image": "images/features/artificial-intelligence-04.svg"
   },
   {
     "title": " Cyber Security",
-    "description": " Cloud Architect wjbj",
-    "image": "images/features/noun_The Process_1885341.svg"
+    "description": " Cyber Security ",
+    "image": "images/features/ironclad-security-svgrepo-com.svg"
   },
   {
     "title": " Cloud Architecture",
-    "description": "We stay up.",
+    "description": "Cloud Architecture",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
