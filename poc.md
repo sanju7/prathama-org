@@ -1,6 +1,9 @@
 ---
 title: Cloud, AI & Security, my hands on innovation
 layout: page
+intro_image: "images/sa-pro-image-png-3.png"
+intro_image_absolute: true
+intro_image_hide_on_mobile: false  # Ensures it stays visible on mobile
 permalink: /poc/
 ---
 # 🚀 Innovative Cloud & AI Solutions: My Proof of Work 
