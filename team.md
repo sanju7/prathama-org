@@ -2,6 +2,9 @@
 title: Team
 layout: home
 permalink: /team/
+intro_image: "/images/sa-pro-image-rnd-1.png"
+intro_image_absolute: false
+intro_image_hide_on_mobile: false  # Ensures it stays visible on mobile
 
 ---
 
