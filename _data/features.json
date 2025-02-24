@@ -2,19 +2,19 @@
   {
     "title": "Artificial Intelligence",
     "description": "Transforming data into intelligence with cutting edge AI and Machine Learning solutions.",
-    "image": "images/features/artificial-intelligence-04.svg"
+    "image": "images/features/artificial-intelligence-04.svg",
     "link": "/ai"
   },
   {
     "title": " Cyber Security",
     "description": "Protecting digital assets with advanced threat detection and security strategies.",
-    "image": "images/features/ironclad-security-svgrepo-com.svg"
+    "image": "images/features/ironclad-security-svgrepo-com.svg",
     "link": "/cyber-security"
   },
   {
     "title": " Cloud Architecture",
     "description": "Designing secure, scalable cloud infrastructure for modern enterprise.",
-    "image": "images/features/cloud-svgrepo-com.svg"
+    "image": "images/features/cloud-svgrepo-com.svg",
     "link": "/cloud-architecture"
   }
 ]
