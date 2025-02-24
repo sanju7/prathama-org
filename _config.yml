@@ -27,6 +27,8 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.sanjayanand.pro" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sanjya7
 github_username:  sanju7
+linkedin_url: "https://no.linkedin.com/in/sanjay-anand-55999007"
+youtube_url: "https://www.youtube.com/@wavebywave365"
 
 # Build settings
 theme: Minima
