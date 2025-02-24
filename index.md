@@ -2,7 +2,7 @@
 layout: home
 title: Sanjay Anand | AI, Cloud & Cybersecurity Portfolio
 description: AI & Cloud Strategist | Cybersecurity Expert | Digital Transformation Leader. Exploring AI-driven security, scalable cloud solutions, and futuristic innovations.
-intro_image: "images/sa-pro-image-3.png"
+intro_image: "images/sa-pro-image-AI3.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false  # Ensures it stays visible on mobile
 ---
