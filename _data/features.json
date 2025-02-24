@@ -3,15 +3,18 @@
     "title": "Artificial Intelligence",
     "description": "Data and Artificial Intelligence",
     "image": "images/features/artificial-intelligence-04.svg"
+    "link": "/ai"
   },
   {
     "title": " Cyber Security",
     "description": " Cyber Security ",
     "image": "images/features/ironclad-security-svgrepo-com.svg"
+    "link": "/cyber-security"
   },
   {
     "title": " Cloud Architecture",
     "description": "Cloud Architecture",
     "image": "images/features/cloud-svgrepo-com.svg"
+    "link": "/cloud-architecture"
   }
 ]
