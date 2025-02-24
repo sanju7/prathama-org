@@ -1,14 +1,18 @@
 <div class="social">
-  {% for item in site.data.social %}
-  {% comment %}
-  {% assign link_url = item.link %}
-  {% if item.name = "LinkedIn" and link_url == "" %}
-    {% assign link_url = site.linkedin_url %}
-  {% elsif item.name = "YouTube" and link_url == "" %}
-    {% assign link_url = site.youtube_url %}
+  {% if site.data.social %}
+    {% for item in site.data.social %}
+      {% assign link_url = item.link %}
+  
+      {% if item.name == "LinkedIn" and link_url == "" %}
+        {% assign link_url = site.linkedin_url %}
+      {% elsif item.name = "YouTube" and link_url == "" %}
+        {% assign link_url = site.youtube_url %}
+      {% endif %}
+
+      {% if link_url %}
+      <a href="{{ link_url }}" target="blank">
+      <img src="{{ item.image | relative_url }}" title="{{ item.name }}" alt="{{ item.name }}" /></a>
+      {% endif %}
+    {% endfor %}
   {% endif %}
-  (% endcomment %}
-  <p>DEBUG: {{ item.name }} -> {{ link_url }} </p> <!-- removable linke to dubug -->
-    <a href="{{ item.link }}" target="blank"><img src="{{ item.image | relative_url }}" title="{{ item.name }}" alt="{{ item.name }}" /></a>
-  {% endfor %}
 </div>
