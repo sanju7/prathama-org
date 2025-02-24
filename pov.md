@@ -1,6 +1,9 @@
 ---
 title: My perspective on AI, Security and Digital Evolution
 layout: page
+intro_image: "images/sa-pro-image-rnd-2.png"
+intro_image_absolute: true
+intro_image_hide_on_mobile: false  # Ensures it stays visible on mobile
 permalink: /pov/
 ---
 
