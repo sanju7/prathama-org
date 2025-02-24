@@ -5,6 +5,11 @@
     "image": "images/social/github.svg"
   },
   {
+    "name": "Linkedin",
+    "Link": "https://no.linkedin.com/in/sanjay-anand-5599007",
+    "image": "images/social/linkedin-svgrepo-com.svg"
+  },
+  {
     "name": "Twitter",
     "link": "https://twitter.com/sanju7",
     "image": "images/social/twitter.svg"
