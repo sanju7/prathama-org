@@ -3,9 +3,9 @@
     {% for item in site.data.social %}
       {% assign link_url = item.link %}
   
-      {% if item.name == "LinkedIn" and link_url == "" %}
+      {% if item.name == "LinkedIn" %}
         {% assign link_url = site.linkedin_url %}
-      {% elsif item.name = "YouTube" and link_url == "" %}
+      {% elsif item.name = "YouTube" %}
         {% assign link_url = site.youtube_url %}
       {% endif %}
 
