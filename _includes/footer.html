@@ -4,6 +4,10 @@
       <div class="col-12">
         <div class="footer-inner">
           <h3 class="footer-title">{{site.title}}</h3>
+          {% if site.data.social %}
+            {% include social.html %}
+          {% endif %}
+          
           <ul>
             {% assign footermenu = site.data.menus.footer | sort: 'weight'  %}
             {% for item in footermenu %}
