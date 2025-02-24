@@ -10,6 +10,11 @@
     "image": "images/social/linkedin-svgrepo-red-com.svg"
   },
   {
+    "name": "YouTube",
+    "Link": "https://www.youtube.com/@wavebywave365",
+    "image": "images/social/youtube-icon.svg"
+  },
+  {
     "name": "Twitter",
     "link": "https://twitter.com/sanju7",
     "image": "images/social/twitter.svg"
