@@ -1,0 +1,26 @@
+/* for keeping image at side along with text */
+
+<section class="hero-section"> 
+   <div class="container"> 
+      <div class="row justify-content-center align-items-center"> 
+         <div class="col-12 col-md-8 col-lg-6 text-center"> 
+            <img alt="{{ page.title }}" class="img-fluid hero-image" src="{{ page.intro_image }}" /> 
+         </div> 
+      </div> 
+   </div> 
+</section> 
+
+ 
+.hero-section { 
+    padding: 80px 0; /* Adds top and bottom spacing */ 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    min-height: 60vh; /* Ensures it's not too small */ 
+} 
+
+.hero-section img { 
+    max-width: 100%; 
+    height: auto; 
+    object-fit: contain; /* Ensures it does not overflow */ 
+} 
