@@ -44,5 +44,12 @@
     max-width: 100%; 
     height: auto; 
     display: block; 
-    object-fit: cover; 
+    object-fit: contain; */ ensures full image fits within container */ 
 } 
+
+div.col-12.col-md-6.col-lg-6 { 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    max-width: 100%; /* Ensures it does not exceed the expected size */ 
+}
