@@ -23,4 +23,13 @@
     max-width: 100%; 
     height: auto; 
     object-fit: contain; /* Ensures it does not overflow */ 
+}
+
+body { 
+    display: flex; 
+    flex-direction: column; 
+} 
+
+main { 
+    flex: 1; /* Ensures the main content gets space */ 
 } 
