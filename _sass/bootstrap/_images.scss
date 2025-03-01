@@ -40,3 +40,9 @@
   @include font-size($figure-caption-font-size);
   color: $figure-caption-color;
 }
+.img-fluid { 
+    max-width: 100%; 
+    height: auto; 
+    display: block; 
+    object-fit: cover; 
+} 
