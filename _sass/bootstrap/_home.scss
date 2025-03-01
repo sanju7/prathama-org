@@ -1,18 +1,4 @@
 /* placing style for image responsiveness , keeping it outside _images.scss */
 
-.hero-section { 
-  display: flex; 
-  justify-content: center; 
-  align-items: center; 
-  min-height: 60vh; /* Ensures image is centered in the viewport */ 
-  padding-top: 50px; 
-} 
-
-.hero-image { 
-  max-width: 100%; 
-  height: auto; 
-  display: block; 
-  margin: 0 auto; 
-} 
 
  
