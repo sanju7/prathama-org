@@ -14,14 +14,26 @@ bodyClass: page-home
         {% endif %}
       </div>
     <div class="container"> 
-      <div class="row justify-content-center align-items-center"> 
-         {% if page.intro_image %} 
-         <div class="col-12 col-md-10 col-lg-8"> 
-         <img alt="{{ page.title }}" class="img-fluid w-100" src="{{ page.intro_image }}" /> 
-         </div> 
-         {% endif %} 
+  <div class="row align-items-center"> 
+    {% if page.intro_image %} 
+      <div class="col-12 col-md-10 col-lg-8"> 
+        <img alt="{{ page.title }}" class="img-fluid w-100" src="{{ page.intro_image }}" /> 
       </div> 
-     </div> 
+    {% endif %} 
+  </div> 
+</div> 
+
+      <section class="hero-section"> 
+        <div class="container"> 
+          <div class="row justify-content-center"> 
+                {% if page.intro_image %} 
+               <div class="col-12 col-md-8 col-lg-6 text-center"> 
+               <img alt="{{ page.title }}" class="img-fluid hero-image" src="{{ page.intro_image }}" /> 
+              </div> 
+               {% endif %} 
+          </div> 
+        </div> 
+      </section>
     </div>
   </div>
 </div>
