@@ -13,27 +13,26 @@ bodyClass: page-home
           {% include call.html show_button=true %}
         {% endif %}
       </div>
-      <div class="container"> 
-    <div class="row justify-content-center align-items-center"> 
-        <div class="col-12 col-md-6 col-lg-6 text-center"> 
-            <h1>Welcome to My Site</h1> 
-            <p>Some introduction text here...</p> 
-        </div> 
+      <div class="row justify-content-start"> 
+    <!-- Text Section --> 
+    <div class="col-12 col-md-7 col-lg-6 order-md-1"> 
+        {{ content }} 
+        {% if site.homepage.show_call_box %} 
+            {% include call.html show_button=true %} 
+        {% endif %} 
     </div> 
-</div> 
 
-<!-- Move Hero Section Below the Content --> 
-      <section class="hero-section"> 
-         <div class="container"> 
-           <div class="row justify-content-center align-items-center"> 
-             <div class="col-12 col-md-8 col-lg-6 text-center"> 
-                <img alt="Sanjay Anand | AI, Cloud & Cybersecurity Portfolio"  
-                     class="img-fluid hero-image"  
-                     src="/images/sa-pro-image-AI3.png"> 
-             </div> 
-           </div> 
-         </div> 
-      </section>  
+    <!-- Image Section with Conditional Classes --> 
+    {% if page.intro_image %} 
+          <div class="col-12 col-md-5 col-lg-6 order-md-2 position-relative"> 
+             <img alt="{{ page.title }}"  
+                class="img-fluid intro-image 
+                {% if page.intro_image_absolute %} intro-image-absolute{% endif %} 
+                {% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" 
+               src="{{ page.intro_image | relative_url }}" /> 
+          </div> 
+          {% endif %} 
+       </div> 
     </div>
   </div>
 </div>
