@@ -10,18 +10,23 @@
    </div> 
 </section> 
 
-.hero-section { 
-    padding: 80px 0; 
-    display: flex; 
-    align-items: center; 
-    justify-content: center; 
-    min-height: 60vh; /* Ensures it is not too small */ 
-} 
-
-.hero-section img { 
+.intro-image { 
     max-width: 100%; 
     height: auto; 
-    object-fit: contain; 
-    border-radius: 10px; /* Optional: Adds smooth corners */ 
-}  
+    object-fit: contain; /* Ensures image stays within bounds */ 
+} 
+
+/* If you want additional control for positioning */ 
+.intro-image-absolute { 
+    position: absolute; 
+    top: 0; 
+    right: 0; 
+} 
+ 
+/* To hide images on mobile if needed */ 
+.intro-image-hide-mobile { 
+    @media (max-width: 768px) { 
+        display: none; 
+    } 
+} 
 
