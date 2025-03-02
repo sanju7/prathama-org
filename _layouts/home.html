@@ -14,14 +14,7 @@ bodyClass: page-home
         {% endif %}
       </div>
       <div class="row justify-content-start"> 
-    <!-- Text Section --> 
-    <div class="col-12 col-md-7 col-lg-6 order-md-1"> 
-        {{ content }} 
-        {% if site.homepage.show_call_box %} 
-            {% include call.html show_button=true %} 
-        {% endif %} 
-    </div> 
-
+    
     <!-- Image Section with Conditional Classes --> 
     {% if page.intro_image %} 
           <div class="col-12 col-md-5 col-lg-6 order-md-2 position-relative"> 
