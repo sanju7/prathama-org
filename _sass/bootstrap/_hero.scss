@@ -10,28 +10,18 @@
    </div> 
 </section> 
 
- 
 .hero-section { 
-    padding: 80px 0; /* Adds spacing around the section */ 
+    padding: 80px 0; 
     display: flex; 
-    flex-direction: column; /* Ensures content stacks properly */ 
     align-items: center; 
     justify-content: center; 
-    min-height: 60vh; /* Ensures section takes enough height */ 
-} 
-
-.hero-section .container { 
-    display: flex; 
-    flex-direction: row; /* Ensures image & text can be side-by-side */ 
-    align-items: center; 
-    justify-content: center; 
-    flex-wrap: wrap; /* Makes it responsive */ 
+    min-height: 60vh; /* Ensures it is not too small */ 
 } 
 
 .hero-section img { 
     max-width: 100%; 
     height: auto; 
-    object-fit: contain; /* Ensures full image is visible */ 
-    display: block; 
-    margin: 0 auto; 
-} 
+    object-fit: contain; 
+    border-radius: 10px; /* Optional: Adds smooth corners */ 
+}  
+
