@@ -11,22 +11,24 @@
 </section> 
 
 .intro-image { 
-    max-width: 100%; 
-    height: auto; 
-    object-fit: contain; /* Ensures image stays within bounds */ 
+    max-width: 100%; 
+    height: auto; 
+    object-fit: contain;  /* Ensures image stays within column */ 
+    display: block;  
+    margin-left: auto; 
+    margin-right: auto; 
 } 
 
-/* If you want additional control for positioning */ 
 .intro-image-absolute { 
-    position: absolute; 
-    top: 0; 
-    right: 0; 
+    position: absolute; 
+    top: 0; 
+    right: 0; 
 } 
- 
-/* To hide images on mobile if needed */ 
-.intro-image-hide-mobile { 
-    @media (max-width: 768px) { 
-        display: none; 
-    } 
+
+
+intro-image-hide-mobile { 
+    @media (max-width: 768px) { 
+        display: none; 
+    } 
 } 
 
