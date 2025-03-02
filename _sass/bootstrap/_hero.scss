@@ -12,22 +12,13 @@
 
  
 .hero-section { 
-
     padding: 80px 0; /* Adds spacing around the section */ 
-
     display: flex; 
-
     flex-direction: column; /* Ensures content stacks properly */ 
-
     align-items: center; 
-
     justify-content: center; 
-
     min-height: 60vh; /* Ensures section takes enough height */ 
-
 } 
-
- 
 
 .hero-section .container { 
     display: flex; 
