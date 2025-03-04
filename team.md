@@ -72,6 +72,7 @@ Contributed to white papers, research collaborations, and industry discussions o
 
 
 > 💬 Our financial institution is using Pivotal Cloud Foundry for a large portion of the client advisor and the internet/facing client applications. Sanjay Anand was part of the team that stood up this application hosting platform from 2019 to 2021. He  led certain architecture topics, an example being all decision related to high availability of the platform. He wrote the entire compliance documentation for the platform, which required an excellent understanding of PCF, but also of the compliance and security requirements of our institute. He then helped us achieve all the compliance and security signoff that were required to operate the platform, Sanjay is senior engineer and architect, and thus through his multi/year consultancey experience, a deep technical background in IT and IT infrastructure. He energetically addresses his areas of contribution, and he is a pleasure to work with.
+
 **- Director, [UBS]** 
  
 
